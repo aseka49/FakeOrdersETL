@@ -1,0 +1,33 @@
+restaurant_id,name,city,cuisine,rating
+1,Zhyenpok,г. Тикси,French,4.1
+2,Zhyenpok,д. Сосногорск,French,4.1
+3,Zhyenpok,клх Листвянка (Иркут.),French,4.1
+4,Papa Anuar,к. Охотск,Kazakh,4.5
+5,Papa Anuar,г. Усмань,Kazakh,4.6
+6,Papa Anuar,ст. Тулун,Kazakh,4.3
+7,Rakhatoli,п. Оймякон,Russian,4.9
+8,Rakhatoli,клх Тобольск,Russian,4.7
+9,Rakhatoli,с. Анадырь,Russian,4.7
+10,ZloyBucks,п. Воронеж,Kazakh,4.5
+11,ZloyBucks,с. Архыз,Kazakh,4.7
+12,SayAssiya,с. Бронницы,Kazakh,4.1
+13,SayAssiya,с. Нерчинск,Kazakh,4.1
+14,SojuBek,к. Тотьма,French,4.3
+15,SojuBek,к. Елец,French,4.1
+16,SojuBek,п. Тавда,French,4.1
+17,Alina Khan,ст. Амурск,American,4.9
+18,Alina Khan,с. Пышма,American,4.7
+19,Alina Khan,к. Лесной (Сверд.),American,4.6
+20,Arnurio,д. Кирово-Чепецк,French,4.6
+21,Arnurio,п. Железногорск(Курск.),French,4.4
+22,Talant,к. Луга,American,4.2
+23,Talant,к. Сосьва (Хант.),American,4.5
+24,Adilet's tea,п. Славянск-на-Кубани,French,4.1
+25,Adilet's tea,клх Киренск,French,4.3
+26,Adilet's tea,клх Диксон,French,4.2
+27,Zhaniques,д. Корсаков,Italian,4.4
+28,Zhaniques,с. Чайковский,Italian,4.5
+29,Zhaniques,п. Кизел,Italian,4.7
+30,Daniel's,с. Усмань,Korean,4.1
+31,Daniel's,д. Качканар,Korean,4.1
+32,Daniel's,г. Ямбург,Korean,4.1

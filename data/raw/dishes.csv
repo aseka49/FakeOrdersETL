@@ -1,0 +1,161 @@
+dish_id,restaurant_id,name,price
+1,1,Baquette,2579
+2,1,Champagne,2971
+3,1,Creme Brule,3000
+4,1,Croissant,2624
+5,1,Macarons,2187
+6,2,Croissant,2503
+7,2,Champagne,2479
+8,2,Macarons,2609
+9,2,Champagne,2742
+10,2,Croissant,2023
+11,3,Croissant,2154
+12,3,Baquette,2461
+13,3,Croissant,2483
+14,3,Croissant,2359
+15,3,Champagne,2513
+16,4,Qazy,2919
+17,4,Baursak,2364
+18,4,Kymyz,2377
+19,4,Qazy,2138
+20,4,Beshbarmak,2263
+21,5,Baursak,2021
+22,5,Kymyz,2290
+23,5,Kymyz,2688
+24,5,Kymyz,2761
+25,5,Qazy,2600
+26,6,Kymyz,2714
+27,6,Kespe,2177
+28,6,Kymyz,2197
+29,6,Baursak,2652
+30,6,Qazy,2978
+31,7,Vinegret,2597
+32,7,Beef Stroganoff,2385
+33,7,Beef Stroganoff,2379
+34,7,Vinegret,2449
+35,7,Beef Stroganoff,2130
+36,8,Kissel,2750
+37,8,Sharlotka,2252
+38,8,Sharlotka,2409
+39,8,Sharlotka,2405
+40,8,Beef Stroganoff,2569
+41,9,Vinegret,2295
+42,9,Beef Stroganoff,2377
+43,9,Shashlik,2211
+44,9,Vinegret,2821
+45,9,Sharlotka,2799
+46,10,Beshbarmak,2731
+47,10,Baursak,2823
+48,10,Kymyz,2653
+49,10,Qazy,2399
+50,10,Beshbarmak,2393
+51,11,Baursak,2416
+52,11,Kymyz,2959
+53,11,Kymyz,2921
+54,11,Beshbarmak,2474
+55,11,Kymyz,2806
+56,12,Qazy,2208
+57,12,Beshbarmak,2322
+58,12,Qazy,2143
+59,12,Baursak,2053
+60,12,Beshbarmak,2478
+61,13,Kymyz,2301
+62,13,Qazy,2263
+63,13,Beshbarmak,2442
+64,13,Kymyz,2664
+65,13,Kymyz,2191
+66,14,Macarons,2120
+67,14,Macarons,2757
+68,14,Macarons,2584
+69,14,Champagne,2276
+70,14,Croissant,2088
+71,15,Croissant,2638
+72,15,Baquette,2888
+73,15,Macarons,2601
+74,15,Creme Brule,2100
+75,15,Creme Brule,2985
+76,16,Croissant,2803
+77,16,Creme Brule,2142
+78,16,Champagne,2863
+79,16,Creme Brule,2124
+80,16,Croissant,2277
+81,17,Burger,2209
+82,17,Barbeque,2931
+83,17,Cupcake,2625
+84,17,Barbeque,2138
+85,17,Root Beer,2840
+86,18,Burger,2991
+87,18,Burger,2890
+88,18,Burger,2572
+89,18,Fried Chicken,2676
+90,18,Burger,2237
+91,19,Root Beer,2083
+92,19,Burger,2760
+93,19,Barbeque,2559
+94,19,Root Beer,2916
+95,19,Barbeque,2313
+96,20,Baquette,2043
+97,20,Macarons,2684
+98,20,Croissant,2247
+99,20,Creme Brule,2998
+100,20,Croissant,2794
+101,21,Creme Brule,2604
+102,21,Macarons,2528
+103,21,Creme Brule,2867
+104,21,Champagne,2494
+105,21,Baquette,2740
+106,22,Cupcake,2215
+107,22,Cupcake,2907
+108,22,Burger,2940
+109,22,Cupcake,2193
+110,22,Cupcake,2638
+111,23,Cupcake,2188
+112,23,Barbeque,2205
+113,23,Fried Chicken,2087
+114,23,Fried Chicken,2137
+115,23,Cupcake,2920
+116,24,Croissant,2534
+117,24,Creme Brule,2707
+118,24,Champagne,2340
+119,24,Champagne,2289
+120,24,Macarons,2294
+121,25,Croissant,2744
+122,25,Champagne,2475
+123,25,Champagne,2004
+124,25,Baquette,2475
+125,25,Creme Brule,2094
+126,26,Baquette,2064
+127,26,Champagne,2199
+128,26,Croissant,2485
+129,26,Champagne,2165
+130,26,Creme Brule,2905
+131,27,Pizza,2201
+132,27,Tiramisu,2308
+133,27,Wine,2996
+134,27,Wine,2613
+135,27,Carbonara,2865
+136,28,Tiramisu,2344
+137,28,Carbonara,2199
+138,28,Risotto,2464
+139,28,Carbonara,2728
+140,28,Carbonara,2310
+141,29,Tiramisu,2962
+142,29,Wine,2380
+143,29,Pizza,2951
+144,29,Pizza,2382
+145,29,Pizza,2268
+146,30,Soju,2199
+147,30,Kimchi,2750
+148,30,Bulgogi,2447
+149,30,Bibimbap,2856
+150,30,Bulgogi,2817
+151,31,Bibimbap,2393
+152,31,Bibimbap,2237
+153,31,Kimchi,2687
+154,31,Bibimbap,2040
+155,31,Gimbap,2721
+156,32,Bibimbap,2547
+157,32,Gimbap,2766
+158,32,Soju,2259
+159,32,Bulgogi,2070
+160,32,Kimchi,2614

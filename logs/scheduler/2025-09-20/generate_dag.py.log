@@ -1,0 +1,179 @@
+[2025-09-20T22:43:21.244+0000] {processor.py:186} INFO - Started process (PID=24) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:43:21.245+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:43:21.250+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:43:21.249+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:43:21.296+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:43:21.543+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:43:21.542+0000] {override.py:1858} INFO - Created Permission View: can read on DAG:generate_orders_once
+[2025-09-20T22:43:21.560+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:43:21.559+0000] {override.py:1858} INFO - Created Permission View: can delete on DAG:generate_orders_once
+[2025-09-20T22:43:21.571+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:43:21.571+0000] {override.py:1858} INFO - Created Permission View: can edit on DAG:generate_orders_once
+[2025-09-20T22:43:21.572+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:43:21.572+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:43:21.589+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:43:21.589+0000] {dag.py:3262} INFO - Creating ORM DAG for generate_orders_once
+[2025-09-20T22:43:21.591+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:43:21.591+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:43:21.611+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.375 seconds
+[2025-09-20T22:43:51.779+0000] {processor.py:186} INFO - Started process (PID=29) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:43:51.780+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:43:51.783+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:43:51.783+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:43:51.807+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:43:51.839+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:43:51.839+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:43:51.854+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:43:51.853+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:43:51.880+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.108 seconds
+[2025-09-20T22:44:21.950+0000] {processor.py:186} INFO - Started process (PID=34) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:44:21.952+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:44:21.954+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:44:21.954+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:44:21.978+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:44:22.008+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:44:22.008+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:44:22.024+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:44:22.023+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:44:22.043+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.100 seconds
+[2025-09-20T22:44:52.365+0000] {processor.py:186} INFO - Started process (PID=39) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:44:52.367+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:44:52.369+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:44:52.369+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:44:52.391+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:44:52.423+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:44:52.423+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:44:52.438+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:44:52.438+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:44:52.459+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.101 seconds
+[2025-09-20T22:45:22.783+0000] {processor.py:186} INFO - Started process (PID=44) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:45:22.785+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:45:22.787+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:45:22.787+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:45:22.808+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:45:22.839+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:45:22.839+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:45:22.854+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:45:22.854+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:45:22.874+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.097 seconds
+[2025-09-20T22:45:53.175+0000] {processor.py:186} INFO - Started process (PID=49) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:45:53.176+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:45:53.179+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:45:53.178+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:45:53.195+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:45:53.224+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:45:53.224+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:45:53.238+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:45:53.238+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:45:53.265+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.099 seconds
+[2025-09-20T22:46:23.336+0000] {processor.py:186} INFO - Started process (PID=54) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:46:23.337+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:46:23.340+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:46:23.339+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:46:23.366+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:46:23.395+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:46:23.395+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:46:23.409+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:46:23.409+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:46:23.429+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.099 seconds
+[2025-09-20T22:46:47.443+0000] {processor.py:186} INFO - Started process (PID=59) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:46:47.444+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:46:47.447+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:46:47.446+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:46:47.548+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:46:47.578+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:46:47.578+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:46:47.592+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:46:47.592+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:46:47.625+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.189 seconds
+[2025-09-20T22:47:17.953+0000] {processor.py:186} INFO - Started process (PID=64) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:47:17.954+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:47:17.957+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:47:17.957+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:47:18.051+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:47:18.080+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:47:18.080+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:47:18.094+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:47:18.094+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:47:18.114+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.169 seconds
+[2025-09-20T22:47:49.029+0000] {processor.py:186} INFO - Started process (PID=69) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:47:49.031+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:47:49.034+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:47:49.034+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:47:49.116+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:47:49.145+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:47:49.145+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:47:49.159+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:47:49.159+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:47:49.187+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.164 seconds
+[2025-09-20T22:48:19.516+0000] {processor.py:186} INFO - Started process (PID=74) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:48:19.517+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:48:19.521+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:48:19.520+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:48:19.624+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:48:19.654+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:48:19.654+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:48:19.669+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:48:19.668+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:48:19.690+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.182 seconds
+[2025-09-20T22:48:49.852+0000] {processor.py:186} INFO - Started process (PID=79) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:48:49.853+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:48:49.856+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:48:49.856+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:48:49.946+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:48:49.975+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:48:49.975+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:48:49.992+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:48:49.992+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:48:50.019+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.174 seconds
+[2025-09-20T22:49:20.341+0000] {processor.py:186} INFO - Started process (PID=84) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:49:20.342+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:49:20.345+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:49:20.344+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:49:20.442+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:49:20.472+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:49:20.472+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:49:20.486+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:49:20.486+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:49:20.507+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.174 seconds
+[2025-09-20T22:49:50.824+0000] {processor.py:186} INFO - Started process (PID=89) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:49:50.825+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:49:50.828+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:49:50.828+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:49:50.926+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_once' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:49:50.958+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:49:50.958+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:49:50.973+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:49:50.973+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_once to None, run_after=None
+[2025-09-20T22:49:50.999+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.182 seconds
+[2025-09-20T22:50:01.033+0000] {processor.py:186} INFO - Started process (PID=90) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:50:01.034+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:50:01.038+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:50:01.038+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:50:01.076+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:50:01.202+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:50:01.202+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:50:01.215+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:50:01.215+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:50:01.249+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.223 seconds
+[2025-09-20T22:50:31.450+0000] {processor.py:186} INFO - Started process (PID=95) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:50:31.451+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:50:31.454+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:50:31.454+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:50:31.478+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:50:31.507+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:50:31.507+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:50:31.522+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:50:31.521+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:50:31.542+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.099 seconds
+[2025-09-20T22:51:01.608+0000] {processor.py:186} INFO - Started process (PID=100) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:51:01.609+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:51:01.612+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:51:01.612+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:51:01.638+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:51:01.668+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:51:01.668+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:51:01.683+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:51:01.683+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:51:01.703+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.101 seconds
+[2025-09-20T22:51:31.777+0000] {processor.py:186} INFO - Started process (PID=105) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:51:31.779+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:51:31.780+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:51:31.780+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:51:31.805+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:51:31.837+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:51:31.836+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:51:31.852+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:51:31.851+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:51:31.871+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.102 seconds
+[2025-09-20T22:52:02.181+0000] {processor.py:186} INFO - Started process (PID=110) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:52:02.182+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:52:02.183+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:52:02.183+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:52:02.204+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:52:02.235+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:52:02.235+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:52:02.250+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:52:02.249+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:52:02.269+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.096 seconds
+[2025-09-20T22:52:32.596+0000] {processor.py:186} INFO - Started process (PID=115) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:52:32.598+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:52:32.599+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:52:32.599+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:52:32.624+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:52:32.655+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:52:32.654+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:52:32.670+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:52:32.669+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:52:32.693+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.103 seconds
+[2025-09-20T22:52:53.561+0000] {processor.py:186} INFO - Started process (PID=120) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:52:53.562+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:52:53.563+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:52:53.563+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:52:53.665+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:52:53.698+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:52:53.698+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:52:53.713+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:52:53.712+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:52:53.739+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.186 seconds
+[2025-09-20T22:53:24.677+0000] {processor.py:186} INFO - Started process (PID=125) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:53:24.678+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:53:24.680+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:53:24.679+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:53:24.765+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:53:24.794+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:53:24.793+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:53:24.809+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:53:24.809+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:53:24.829+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.159 seconds
+[2025-09-20T22:53:54.889+0000] {processor.py:186} INFO - Started process (PID=130) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:53:54.890+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:53:54.891+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:53:54.891+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:53:54.985+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:53:55.015+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:53:55.015+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:53:55.030+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:53:55.030+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:53:55.060+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.179 seconds
+[2025-09-20T22:54:26.025+0000] {processor.py:186} INFO - Started process (PID=135) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:54:26.027+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:54:26.028+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:54:26.028+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:54:26.125+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:54:26.162+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:54:26.162+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:54:26.183+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:54:26.182+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:54:26.212+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.194 seconds
+[2025-09-20T22:54:57.123+0000] {processor.py:186} INFO - Started process (PID=140) to work on /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:54:57.125+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/generate_dag.py for tasks to queue
+[2025-09-20T22:54:57.127+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:54:57.126+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:54:57.350+0000] {processor.py:925} INFO - DAG(s) 'generate_orders_dag' retrieved from /opt/airflow/dags/generate_dag.py
+[2025-09-20T22:54:57.388+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:54:57.388+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-20T22:54:57.403+0000] {logging_mixin.py:190} INFO - [2025-09-20T22:54:57.403+0000] {dag.py:4180} INFO - Setting next_dagrun for generate_orders_dag to None, run_after=None
+[2025-09-20T22:54:57.427+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/generate_dag.py took 0.310 seconds
